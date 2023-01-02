@@ -1,0 +1,8 @@
+## Environment variables
+.env
+
+## Pre-installed modules
+node_modules
+
+## Lock file
+package-lock.json
